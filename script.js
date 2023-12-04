@@ -1,13 +1,10 @@
-function functionName(){
+let functionName = functionName(){
 	alert("functionName");
-}
-functionName.name = "functionName";
-console.log(functionName.name);
-function AccioJob() {
+};
+functionName(event);
+let AccioJob = AccioJob(){
 	alert("AccioJob");
-}
-AccioJob.displayName = "AccioJob"
-console.log(.displayName);
-
+};
+AccioJob(x);
 
 
